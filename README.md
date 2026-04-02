@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Hérik!
 
 ⚡ Técnico em Eletroeletrônica  
-💻 Engenharia da Computação
-🏐 Vôlei nas horas vagas
-📚 Sempre buscando evoluir  
+💻 Engenharia da Computação   
+🏐 Vôlei nas horas vagas   
+📚 Sempre buscando evoluir    
 
 ---
 
