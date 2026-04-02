@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Hérik!
 
-<!--
-**herikfernandes100/herikfernandes100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Técnico em Eletroeletrônica  
+💻 Engenharia da Computação
+🏐 Vôlei nas horas vagas
+📚 Sempre buscando evoluir  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que uso
+
+* ☕ Java
+* 🗄️ MySQL
+* 🎨 Java Swing
+* 🔧 MVC
+
+
+## 📫 Como me encontrar
+
+* [GitHub](https://github.com/herikfernandes100)
+* [Instagran](https://www.instagram.com/herik.fernandes)
+
+---
+
+⭐ Sempre evoluindo um commit por vez!
