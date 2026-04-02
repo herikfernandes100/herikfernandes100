@@ -10,8 +10,10 @@
 ## 🛠️ Tecnologias que uso
 
 * ☕ Java
-* 🗄️ MySQL
 * 🎨 Java Swing
+* 🐍 Python
+* 📟 C
+* 🗄️ MySQL
 * 🔧 MVC
 
 
