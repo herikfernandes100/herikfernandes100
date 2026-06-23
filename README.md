@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou o Hérik!
 
+🌐 **[Meu Portfólio](https://portfolio-herik-beta.vercel.app/)**
+
 ⚡ Técnico em Eletroeletrônica  
 💻 Engenharia da Computação   
 🏐 Vôlei nas horas vagas   
